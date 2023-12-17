@@ -1,3 +1,21 @@
+# Scaleable Chat App
+
+In this project i have created a simple chat app which could be scaleable at large scale.
+
+> Tech stack
+- Next.js
+- Node.js
+- Socket.io & Socket.io-client
+- Redis & Redis Insights
+- React
+- Typescript
+
+> Architecture
+
+![scaleable-chat-app](./assets/img/scaleable-chat-app.png)
+
+
+
 # Turborepo starter
 
 This is an official starter Turborepo.
